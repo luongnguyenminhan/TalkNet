@@ -1,3 +1,6 @@
+# MacOS
+.DS_Store
+
 # Other files
 *.model
 *.pth
